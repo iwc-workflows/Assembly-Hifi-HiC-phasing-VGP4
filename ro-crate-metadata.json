@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2023-11-23T13:33:07.949422",
+            "datePublished": "2024-03-26T20:18:42.365340",
             "hasPart": [
                 {
                     "@id": "Assembly-Hifi-HiC-phasing-VGP4.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#b2f8538f-2447-4e66-bd52-a381e0e444e3"
+                    "@id": "#938cb9da-2e48-4056-a5e5-e4287f8b0af2"
                 },
                 {
                     "@id": "https://vertebrategenomeproject.org"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/Assembly-Hifi-HiC-phasing-VGP4",
-            "version": "0.1.7"
+            "version": "0.1.8"
         },
         {
             "@id": "#galaxy",
@@ -93,7 +93,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#b2f8538f-2447-4e66-bd52-a381e0e444e3",
+            "@id": "#938cb9da-2e48-4056-a5e5-e4287f8b0af2",
             "@type": "Organization",
             "name": "Galaxy"
         },
@@ -154,7 +154,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.18"
+            "engineVersion": ">=0.75.21"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
